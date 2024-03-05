@@ -1,1 +1,1 @@
-#TICT2113 Data Structure and Algorithms
+TICT2113 Data Structure and Algorithms
